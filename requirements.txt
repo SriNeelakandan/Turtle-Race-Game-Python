@@ -1,0 +1,8 @@
+In the beginning,it asks the user 
+
+"Who will win the race? Enter a color"
+
+Once I entered the color and click ok , all the turtles are lined up and race will begin and the based on the winner,the resulting statement is printed!
+
+You lose.The {color} turtle is the winner!
+
