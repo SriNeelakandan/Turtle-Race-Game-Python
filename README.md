@@ -1,6 +1,35 @@
-# Turtle-Race-Game-Python
-Game using Python
-Tools Used :turtle graphics package in python ,Screen class,Random Module
-Description: I have used class to create 6 different turtles of 6 different colors and also made it as  a game to guess the user which color turtle will win the game,each colored turtle moves with different forward distance that takes randomly based on random module that is imported in it.Once the turtle reaches the right edge screen from the left edge , then that turtle wins the game and result is shown whether the user guess is right or wrong and also the winner turtle name.
+# 🐢 Turtle Race Game using Python
 
-Skills: problem Solving,Python Programming Language
+This is a simple and fun "Python-based turtle race game" built using the `turtle` graphics package.
+The game allows users to guess which colored turtle will win the race as they move across the screen at random distances.
+
+## 🎮 Description
+
+The game features:
+- Six turtles, each of a unique color.
+- A user input prompt to guess which turtle will win.
+- Turtles start from the left edge of the screen and move forward with random step sizes (using Python's `random` module).
+- The first turtle to reach the right edge of the screen is declared the "winner".
+- A result message is displayed to let the user know if their guess was "correct or incorrect".
+
+This project is implemented using Object-Oriented Programming (OOP) principles with a `Screen` class and turtle instances.
+
+
+## 🛠️ Tools & Technologies
+
+- Python
+- Turtle Graphics Package
+- Random Module
+- OOP Concepts
+
+## ✅ Skills Demonstrated
+
+- Problem Solving
+- Python Programming
+- Object-Oriented Design
+- Logic Building
+
+## 📸 Screenshots
+
+- I have attached all the necassary screenshots
+
